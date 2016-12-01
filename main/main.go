@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"test/testmain/linkedchannle/pubchannle"
+	"github.com/luckrats/pubchannle"
 )
 
 var (

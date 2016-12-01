@@ -1,1 +1,1 @@
-package pubchannle
+package pubsub
